@@ -1,0 +1,9 @@
+[Core]
+Name = Approval
+Module = approval
+
+[Documentation]
+Description = This adds Approval feature to errbot.
+
+[Python]
+Version = 3
